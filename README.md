@@ -58,7 +58,7 @@ pip install pandas
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/covid19-data-analysis.git
+git clone https://github.com/nyametay/covid19-data-analysis.git
 cd covid19-data-analysis
 ```
 2. Launch the notebook:
